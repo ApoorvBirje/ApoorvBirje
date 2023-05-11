@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ApoorvBirje
-- 👀 I’m interested in big data.
-- 🌱 I’m currently learning python language.
-- 💞️ I’m looking to collaborate on projects using python language
+- 👀 I’m interested in DevOps and cloud.
+- 💞️ I’m looking to collaborate on projects using DevOps tools.
 - 📫 How to reach me apoorv.birje.10@gmail.com.
 
 <!---
